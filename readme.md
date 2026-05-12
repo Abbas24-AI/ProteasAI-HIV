@@ -12,11 +12,11 @@ This project turns your AutoML-QSAR notebook/pipeline into a desktop GUI with:
 ## Quick start
 
 ### 1) Create environment
-
+```bash
 conda create -n qsar-gui python=3.10 -y
 conda activate qsar-gui
 pip install -r requirements.txt
-
+```
 
 ### 2) Run the app
 ```bash
