@@ -1,5 +1,4 @@
-# AutoML-QSAR PyQt6 GUI (wired to your pipeline)
-
+# ML-QSAR Studio (Automated Deep QSAR)
 This project turns your AutoML-QSAR notebook/pipeline into a desktop GUI with:
 - Project setup (output directory, ChEMBL ID, activity type)
 - Feature selection (2D/3D/FP and combinations)
